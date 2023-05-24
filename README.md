@@ -2,7 +2,7 @@
 ### 配置
 和 py 同级别简历 `config.json` 文件，文件结构如下
 ```
-.
+.1
 ├── README.md
 ├── checkin.py
 ├── config.json
